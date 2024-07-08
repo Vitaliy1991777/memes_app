@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+databases
+pydantic
+aiobotocore
+boto3
+alembic
+pytest
+requests
+asyncpg
